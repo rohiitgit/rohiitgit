@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**rohiitgit/rohiitgit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Rohit, and I'm passionate about Machine Learning and DSA. Here you'll find some of my personal projects and contributions.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 😄 Language: English/Hindi
+- 🌱 Currently Learning: Machine Learning, Web Design, DSA
+- 💬 Ask me about: Tech
+
+## Get in Touch
+
+- 📧 Email: rohitcodes03@gmail.com
+- 💼 LinkedIn: [Rohit](https://www.linkedin.com/in/rohitcodes03/)
+- 🐦 Twitter: [@rohitcodes](https://twitter.com/rohiitcodes)
+
+---
+
+Thank you for visiting my profile! Have a great day! 🚀
