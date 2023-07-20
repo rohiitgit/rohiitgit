@@ -4,7 +4,7 @@ I'm Rohit, and I'm passionate about Machine Learning and DSA. Here you'll find s
 
 ## About Me
 
-- 😄 Language: English/Hindi
+- 😄 Speak: English/Hindi
 - 🌱 Currently Learning: Machine Learning, Web Design, DSA
 - 💬 Ask me about: Tech
 
