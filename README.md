@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Rohit, and I'm passionate about Machine Learning and DSA. Here you'll find some of my personal projects and contributions.
+I'm Rohit, and I'm passionate about Machine Learning and DSA. Here you'll find my personal projects and contributions.
 
 ## About Me
 
