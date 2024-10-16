@@ -1,19 +1,25 @@
-### Hi there 👋
+Hello, World! 👋
 
-I'm Rohit, and I'm passionate about Machine Learning and DSA. Here you'll find my personal projects and contributions.
+I'm Rohit, and I'm passionate about Machine Learning, and Full Stack Web Development. Here you'll find my personal projects and contributions.
 
-## About Me
+About Me
 
-- 😄 Speak: English/Hindi
-- 🌱 Currently Learning: Machine Learning, Web Design, DSA
-- 💬 Ask me about: Tech
+    🌍 Languages: Fluent in English and Hindi
+    🚀 Currently Diving Into:
+        Full Stack Web Development
+        Machine Learning
+        Web Design
+        DSA
+    💡 Tech Enthusiast: Feel free to ask me about anything related to technology, Python projects, or web development!
 
-## Get in Touch
+Connect with Me
 
-- 📧 Email: rohitcodes03@gmail.com
-- 💼 LinkedIn: [Rohit](https://www.linkedin.com/in/rohitcodes03/)
-- 🐦 Twitter: [@rohitcodes](https://twitter.com/rohiitcodes)
+    📧 Email: rohitcodes03@gmail.com
+    💼 LinkedIn: Connect with me
+    🐦 Twitter: @rohitcodes
 
----
+🌟 Featured Projects
 
-Thank you for visiting my profile! Have a great day! 🚀
+Check out some of my recent projects that showcase my skills in Python and web development.
+
+Thank you for visiting my profile! Let's build something amazing together! 🚀
