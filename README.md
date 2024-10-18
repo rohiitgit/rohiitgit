@@ -8,8 +8,7 @@ I'm **Rohit**, a passionate developer specializing in **Machine Learning** and *
 - 🚀 **Currently Diving Into:**  
   - Full Stack Web Development  
   - Machine Learning  
-  - Web Design  
-  - Advanced DSA Techniques  
+  - Web Design   
 - 💡 **Tech Enthusiast:** Feel free to ask me about anything related to technology, Python projects, or web development!
 
 ## Connect with Me
