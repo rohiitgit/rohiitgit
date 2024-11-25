@@ -14,8 +14,8 @@ I'm **Rohit**, a passionate developer specializing in **Machine Learning** and *
 ## Connect with Me
 
 - 📧 **Email:** [rohitcodes03@gmail.com](mailto:rohitcodes03@gmail.com)  
-- 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/rohit)  
-- 🐦 **Twitter:** [@rohitcodes](https://twitter.com/rohitcodes)  
+- 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/rohiitcodes/)  
+- 🐦 **Twitter:** [@rohitcodes](https://x.com/rohiiiits)
 
 ### 🌟 Featured Projects
 Check out some of my recent projects that showcase my skills in Python and web development.
