@@ -1,23 +1,59 @@
-# Hello, World! 👋
+<h1 align="center">Hello, World! 🌍👋</h1>
 
-I'm **Rohit**, a passionate developer specializing in **Machine Learning** and **Full Stack Web Development**. My journey in tech is driven by building solutions. Explore my personal projects and contributions below!
+<p align="center">
+  <strong>I'm Rohit Singh</strong> — a curious developer passionate about <strong>Machine Learning</strong>, <strong>Full Stack Web Development</strong>, and <strong>Open Source Contribution</strong>.<br>
+  I thrive on solving real-world problems, building performant systems, and becoming a self-sufficient problem solver.
+</p>
 
-## About Me
+---
 
-- 🌍 **Languages:** Fluent in **English** and **Hindi**
-- 🚀 **Currently Diving Into:**  
-  - Full Stack Web Development  
-  - Machine Learning  
-  - Web Design   
-- 💡 **Tech Enthusiast:** Feel free to ask me about anything related to technology, Python projects, or web development!
+## 👨‍💻 About Me
 
-## Connect with Me
+- 🌐 **Languages:** English, Hindi  
+- 🚀 **Current Focus:**
+  - Full Stack Development (Next.js, Tailwind CSS, TypeScript, Vite, React)
+  - Machine Learning with PyTorch, ONNX, and Computer Vision
+  - DevOps as part of the **100xDevs Cohort** 🚀
+- 🔬 **Research Areas:**
+  - 🛰️ On-device semantic segmentation using **LightSegNet** on **Sentinel-2** satellite imagery
+  - 🧠 Automated face swap system preserving facial structure using OpenCV + Dlib + ONNX Runtime
+  - 🗺️ Building **WebGIS** tools supporting WMS & exporting in **GeoJSON/KML**
+- 🖥️ **System Enthusiast:**
+  - Daily driving **Arch Linux**, **Wayland** and **Ubuntu**
+  - Dual boot expert, systemd-boot, i3-wm/Hyprland user
+  - Obsessed with customizing systems & fixing weird TTY display bugs 😎
 
-- 📧 **Email:** [rohitcodes03@gmail.com](mailto:rohitcodes03@gmail.com)  
-- 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/rohiitcodes/)  
-- 🐦 **Twitter:** [@rohitcodes](https://x.com/rohiiiits)
+---
 
-### 🌟 Featured Projects
-Check out some of my recent projects that showcase my skills in Python and web development.
+## 🧰 Tech Stack
 
-Thank you for visiting my profile! Let's build something amazing together! 🚀
+### 💻 Languages  
+`Python` &nbsp; `JavaScript/TypeScript` &nbsp; `C++` &nbsp; `Java` &nbsp; `SQL` &nbsp; `Bash`
+
+### 🧠 ML / AI  
+`PyTorch` &nbsp; `ONNX Runtime` &nbsp; `OpenCV` &nbsp; `NumPy` &nbsp; `Segment Anything (SAM)` &nbsp;
+
+### 🌐 Web  
+`React` &nbsp; `Next.js` &nbsp; `Vite` &nbsp; `Tailwind CSS` &nbsp; `TypeScript`  
+ 
+
+### 🛠️ Dev Tools  
+`Docker` &nbsp; `GitHub Actions` &nbsp; `SQLite` &nbsp; `Boost` &nbsp;
+
+### 🖥️ Systems  
+`Arch Linux` &nbsp; `Ubuntu` &nbsp; `Windows`  
+`NVIDIA RTX 2050` &nbsp;
+
+---
+
+## 🤝 Let's Connect
+
+<p align="left">
+  📧 <strong>Email:</strong> <a href="mailto:rohitcodes03@gmail.com">rohitcodes03@gmail.com</a> <br>
+  💼 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/rohiitcodes/">@rohiitcodes</a> <br>
+  🐦 <strong>Twitter:</strong> <a href="https://x.com/rohiiiits">@rohiiiits</a>
+</p>
+
+---
+
+<p align="center"><strong>Thanks for stopping by! Let’s build something amazing together! 🚀</strong></p>
