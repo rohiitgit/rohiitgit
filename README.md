@@ -17,7 +17,6 @@
 - 🔬 **Research Areas:**
   - 🛰️ On-device semantic segmentation using **LightSegNet** on **Sentinel-2** satellite imagery
   - 🧠 Automated face swap system preserving facial structure using OpenCV + Dlib + ONNX Runtime
-  - 🗺️ Building **WebGIS** tools supporting WMS & exporting in **GeoJSON/KML**
 - 🖥️ **System Enthusiast:**
   - Daily driving **Arch Linux**, **Wayland** and **Ubuntu**
   - Dual boot expert, systemd-boot, i3-wm/Hyprland user
