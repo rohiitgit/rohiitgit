@@ -7,6 +7,18 @@
 
 ---
 
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rohiitgit&show_icons=true&theme=radical&hide_border=true" alt="Rohit's GitHub stats" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohiitgit&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="47%" />
+</p>
+
+<p align="center"><strong>Thanks for stopping by! Let’s build something amazing together! 🚀</strong></p>
+
+---
+
 ## 👨‍💻 About Me
 
 - 🌐 **Languages:** English, Hindi  
@@ -55,13 +67,3 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohiitgit&show_icons=true&theme=radical&hide_border=true" alt="Rohit's GitHub stats" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohiitgit&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="47%" />
-</p>
-
-<p align="center"><strong>Thanks for stopping by! Let’s build something amazing together! 🚀</strong></p>
-
----
