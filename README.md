@@ -1,21 +1,9 @@
 <h1 align="center">Hello, World! 🌍👋</h1>
 
 <p align="center">
-  <strong>I'm Rohit Singh</strong> — a curious developer passionate about <strong>Machine Learning</strong>, <strong>Full Stack Web Development</strong>, and <strong>Open Source Contribution</strong>.<br>
+  <strong>I'm Rohit</strong> — a curious developer passionate about <strong>Machine Learning</strong>, <strong>Full Stack Web Development</strong>, and <strong>Open Source Contribution</strong>.<br>
   I thrive on solving real-world problems, building performant systems, and becoming a self-sufficient problem solver.
 </p>
-
----
-
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohiitgit&show_icons=true&theme=radical&hide_border=true" alt="Rohit's GitHub stats" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohiitgit&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="47%" />
-</p>
-
-<p align="center"><strong>Thanks for stopping by! Let’s build something amazing together! 🚀</strong></p>
 
 ---
 
@@ -33,6 +21,17 @@
   - Daily driving **Arch Linux**, **Wayland** and **Ubuntu**
   - Dual boot expert, systemd-boot, i3-wm/Hyprland user
   - Obsessed with customizing systems & fixing weird TTY display bugs 😎
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rohiitgit&show_icons=true&theme=radical&hide_border=true" alt="Rohit's GitHub stats" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohiitgit&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="47%" />
+</p>
+
+<p align="center"><strong>Thanks for stopping by! Let’s build something amazing together! 🚀</strong></p>
 
 ---
 
