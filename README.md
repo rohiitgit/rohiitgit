@@ -61,7 +61,7 @@
 <p align="left">
   📧 <strong>Email:</strong> <a href="mailto:rohitcodes03@gmail.com">rohitcodes03@gmail.com</a> <br>
   💼 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/rohiitcodes/">@rohiitcodes</a> <br>
-  🐦 <strong>Twitter:</strong> <a href="https://x.com/rohiiiits">@rohiiiits</a>
+  🐦 <strong>Twitter:</strong> <a href="https://x.com/rohiitcodes">@rohiiiits</a>
 </p>
 
 ---
