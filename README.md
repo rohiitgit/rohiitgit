@@ -1,68 +1,62 @@
 <h1 align="center">Hello, World! 🌍👋</h1>
 
 <p align="center">
-  <strong>I'm Rohit</strong> — a curious developer passionate about <strong>Machine Learning</strong>, <strong>Full Stack Web Development</strong>, and <strong>Open Source Contribution</strong>.<br>
-  I thrive on solving real-world problems, building performant systems, and becoming a self-sufficient problem solver.
+  <strong>I'm Rohit</strong> (Roro) — a developer based in Agra, India.<br>
+  I like building tools that make messy work easier, and shipping them where other people can run them.<br>
+  <a href="https://www.rohiit.space/">rohiit.space</a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## What I'm building
 
-- 🌐 **Languages:** English, Hindi  
-- 🚀 **Current Focus:**
-  - Full Stack Development (Next.js, Tailwind CSS, TypeScript, Vite, React)
-  - Machine Learning with PyTorch, ONNX, and Computer Vision
-  - DevOps as part of the **100xDevs Cohort** 🚀
-- 🔬 **Research Areas:**
-  - 🛰️ On-device semantic segmentation using **LightSegNet** on **Sentinel-2** satellite imagery
-  - 🧠 Automated face swap system preserving facial structure using OpenCV + Dlib + ONNX Runtime
-- 🖥️ **System Enthusiast:**
-  - Daily driving **Arch Linux**, **Wayland** and **Ubuntu**
-  - Dual boot expert, systemd-boot, i3-wm/Hyprland user
-  - Obsessed with customizing systems & fixing weird TTY display bugs 😎
+Most of my time goes into **Alvora**: a full-stack TypeScript product, with a Java/Timefold optimization service and Python data work.
+
+Public repos:
+
+- **[rb](https://github.com/rohiitgit/rb)** — Repository Brain, a Rust CLI that indexes a git repo into a Postgres and Apache AGE graph and answers callers, impact, and request-flow questions with file:line evidence.
+- **[fynl-it](https://github.com/rohiitgit/fynl-it)** — Nudgr, a Next.js and TypeScript app for invoice reminders, payment links, and a follow-up dashboard.
+- **[Kdoc](https://github.com/rohiitgit/Kdoc)** — a Go pipeline that accepts PDF uploads, queues jobs on Redis Streams, and stores documents and extracted text in SQLite.
+- **[mailsync](https://github.com/rohiitgit/mailsync)** — a TypeScript email onebox with IMAP sync, Elasticsearch search, Gemini categorization, and Qdrant-backed reply suggestions.
+- **[nodemaid](https://github.com/rohiitgit/nodemaid)** — a Node CLI that lists `node_modules` folders under a path and deletes them after you confirm.
 
 ---
 
-## 📊 GitHub Stats
+## Also around
+
+- **Machine learning:** phishing-URL notebooks in [PhishCatchingModel](https://github.com/rohiitgit/PhishCatchingModel), and a NumPy network in [neural_network_from_scratch](https://github.com/rohiitgit/neural_network_from_scratch).
+- **Linux:** Arch and Hyprland notes in [linux-setup-files](https://github.com/rohiitgit/linux-setup-files).
+- **Spoken:** English, Hindi.
+
+---
+
+## Tech stack
+
+**Languages** — `Rust` `TypeScript` `JavaScript` `Go` `Python` `Java` `SQL` `Shell`
+
+**Web** — `React` `Next.js` `Vite` `Tailwind CSS`
+
+**Data** — `NumPy` `pandas` `scikit-learn` `Jupyter`
+
+**Tools** — `Docker` `PostgreSQL` `Redis` `SQLite`
+
+---
+
+## GitHub stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rohiitgit&show_icons=true&theme=radical&hide_border=true" alt="Rohit's GitHub stats" width="47%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohiitgit&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="47%" />
 </p>
 
-<p align="center"><strong>Thanks for stopping by! Let’s build something amazing together! 🚀</strong></p>
+<p align="center"><strong>Thanks for stopping by. Let’s build something amazing together.</strong></p>
 
 ---
 
-## 🧰 Tech Stack
-
-### 💻 Languages  
-`Python` &nbsp; `JavaScript/TypeScript` &nbsp; `C++` &nbsp; `Java` &nbsp; `SQL` &nbsp; `Bash`
-
-### 🧠 ML / AI  
-`PyTorch` &nbsp; `ONNX Runtime` &nbsp; `OpenCV` &nbsp; `NumPy` &nbsp; `Segment Anything (SAM)` &nbsp;
-
-### 🌐 Web  
-`React` &nbsp; `Next.js` &nbsp; `Vite` &nbsp; `Tailwind CSS` &nbsp; `TypeScript`  
- 
-
-### 🛠️ Dev Tools  
-`Docker` &nbsp; `GitHub Actions` &nbsp; `SQLite` &nbsp; `Boost` &nbsp;
-
-### 🖥️ Systems  
-`Arch Linux` &nbsp; `Ubuntu` &nbsp; `Windows`  
-`NVIDIA RTX 2050` &nbsp;
-
----
-
-## 🤝 Let's Connect
+## Let's connect
 
 <p align="left">
   📧 <strong>Email:</strong> <a href="mailto:rohitcodes03@gmail.com">rohitcodes03@gmail.com</a> <br>
   💼 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/rohiitcodes/">@rohiitcodes</a> <br>
-  🐦 <strong>Twitter:</strong> <a href="https://x.com/rohiitcodes">@rohiiiits</a>
+  🐦 <strong>Twitter:</strong> <a href="https://x.com/rohiitspace">@rohiitspace</a>
 </p>
-
----
-
