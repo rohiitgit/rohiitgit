@@ -5,7 +5,7 @@
 <p align="center">
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;duration=2800&amp;pause=900&amp;color=C4B5FD&amp;center=true&amp;vCenter=true&amp;width=680&amp;height=40&amp;lines=Rohit+%28Roro%29%2C+a+developer+in+Agra;building+tools+that+make+messy+work+easier;Repository+Brain%2C+written+in+Rust;full-stack+TypeScript+at+Alvora" />
-  <img alt="Rohit (Roro), a developer in Agra. Building tools that make messy work easier. Repository Brain, written in Rust. Full-stack TypeScript at Alvora." src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;duration=2800&amp;pause=900&amp;color=5B21B6&amp;center=true&amp;vCenter=true&amp;width=680&amp;height=40&amp;lines=Rohit+%28Roro%29%2C+a+developer+in+Agra;building+tools+that+make+messy+work+easier;Repository+Brain%2C+written+in+Rust;full-stack+TypeScript+at+Alvora" />
+  <img alt="Rohit, a developer in Bangalore. Building tools that make messy work easier. Repository Brain, written in Rust. Full-stack TypeScript at Alvora." src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;duration=2800&amp;pause=900&amp;color=5B21B6&amp;center=true&amp;vCenter=true&amp;width=680&amp;height=40&amp;lines=Rohit+%28Roro%29%2C+a+developer+in+Agra;building+tools+that+make+messy+work+easier;Repository+Brain%2C+written+in+Rust;full-stack+TypeScript+at+Alvora" />
 </picture>
 </p>
 
